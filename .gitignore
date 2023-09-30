@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# virtual environment
+.venv
+
+# keys and certificates
+*.key
+certs
+gencerts
+
+# Python cache
+__pycache__/
